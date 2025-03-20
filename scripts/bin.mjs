@@ -131,4 +131,5 @@ writer([
   "vscode.dev",
   "particle.network",
   "static.particle.network",
+  "brew.sh",
 ]);
