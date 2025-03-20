@@ -92,7 +92,6 @@ writer([
   "./public/host.txt",
   "alive.github.com",
   "api.github.com",
-  "assets-cdn.github.com",
   "avatars.githubusercontent.com",
   "avatars0.githubusercontent.com",
   "avatars1.githubusercontent.com",
